@@ -1,0 +1,6 @@
+{
+	"FirebaseID": "INSERT-USER-ID-HERE",
+	"FirebaseKey": "INSERT-PASSWORD-HERE",
+	"AzureOcpApimSubscriptionKey": "INSERT-KEY-HERE",
+	"GoogleSpeechAPIKey": "INSERT-KEY-HERE",
+}
