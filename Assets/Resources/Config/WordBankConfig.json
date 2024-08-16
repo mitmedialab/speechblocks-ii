@@ -1,0 +1,139 @@
+{
+    "categories": [
+        {
+            "title": "people",
+            "icon": "family",
+            "cards": [
+            ]
+        },
+        {
+            "title": "animals",
+            "icon": "animals-icon",
+            "cards": [
+                "cat",
+                "dog",
+                "lion",
+                "tiger",
+                "shark",
+                "dinosaur",
+                "horse",
+                "bird",
+                "chicken",
+                "fox",
+                "mouse",
+                "butterfly",
+                "bee"
+            ]
+        },
+        {
+            "title": "vehicles",
+            "icon": "vehicles",
+            "cards": [
+                "car",
+                "plane",
+                "helicopter",
+                "rocket",
+                "bike",
+                "truck",
+                "bus",
+                "ship",
+                "submarine",
+                "shuttle",
+                "tank"
+            ]
+        },
+        {
+            "title": "foods",
+            "icon": "food",
+            "cards": [
+                "apple",
+                "cake",
+                "orange",
+                "banana",
+                "bacon",
+                "bread",
+                "cheese",
+                "chips",
+                "egg",
+                "jam",
+                "juice",
+                "pancake",
+                "popcorn"
+            ]
+        },
+        {
+            "title": "house things",
+            "icon": "room",
+            "cards": [
+                "chair",
+                "sofa",
+                "bed",
+                "table",
+                "lamp",
+                "fridge",
+                "fan",
+                "teapot",
+                "toaster",
+                "cup",
+                "plate",
+                "spoon",
+                "fork",
+                "window",
+                "wall",
+                "roof",
+                "television",
+                "phone"
+            ]
+        },
+        {
+            "title": "buildings",
+            "icon": "buildings",
+            "cards": [
+                "house",
+                "castle",
+                "school",
+                "hospital",
+                "igloo",
+                "treehouse",
+                "prison",
+                "cave"
+            ]
+        },
+        {
+            "title": "fairytale things",
+            "icon": "fairytale",
+            "cards": [
+                "king",
+                "queen",
+                "knight",
+                "viking",
+                "dragon",
+                "wizard",
+                "witch",
+                "fairy",
+                "vampire",
+                "dwarf",
+                "castle",
+                "pirate",
+                "elf"
+            ]
+        },
+        {
+            "title": "jobs",
+            "icon": "jobs",
+            "cards": [
+                "doctor",
+                "pilot",
+                "sailor",
+                "fireman",
+                "policeman",
+                "astronaut",
+                "soldier",
+                "dentist",
+                "cowboy",
+                "judge",
+                "painter"
+            ]
+        }
+    ]
+}

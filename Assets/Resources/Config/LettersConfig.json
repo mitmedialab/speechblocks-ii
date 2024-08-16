@@ -1,0 +1,405 @@
+{
+    "a": {
+        "name": "EI1", 
+        "samples": {
+            "A": [
+                "heart"
+            ], 
+            "EI": [
+                "cake"
+            ], 
+            "V": [
+                "alarm"
+            ], 
+            "{": [
+                "dad"
+            ]
+        }, 
+        "sounds": [
+            "V", 
+            "{", 
+            "EI", 
+            "A"
+        ]
+    }, 
+    "b": {
+        "name": "b;i1", 
+        "samples": {
+            "b": [
+                "boy", 
+                "book", 
+                "bat"
+            ]
+        }, 
+        "sounds": [
+            "b"
+        ]
+    }, 
+    "c": {
+        "name": "s;i1", 
+        "samples": {
+            "k": [
+                "cat", 
+                "cake"
+            ], 
+            "s": [
+                "city"
+            ]
+        }, 
+        "sounds": [
+            "k", 
+            "s"
+        ]
+    }, 
+    "d": {
+        "name": "d;i1", 
+        "samples": {
+            "d": [
+                "dog", 
+                "dad", 
+                "dinosaur"
+            ]
+        }, 
+        "sounds": [
+            "d"
+        ]
+    }, 
+    "e": {
+        "name": "i1", 
+        "samples": {
+            "E": [
+                "head", 
+                "desk"
+            ], 
+            "I": [
+                "year"
+            ], 
+            "i": [
+                "bee"
+            ]
+        }, 
+        "sounds": [
+            "E", 
+            "i", 
+            "I"
+        ]
+    }, 
+    "f": {
+        "name": "E1;f", 
+        "samples": {
+            "f": [
+                "fox", 
+                "fire", 
+                "friend", 
+                "fly"
+            ]
+        }, 
+        "sounds": [
+            "f"
+        ]
+    }, 
+    "g": {
+        "name": "dZ;I1", 
+        "samples": {
+            "g": [
+                "ghost", 
+                "girl", 
+                "gift"
+            ]
+        }, 
+        "sounds": [
+            "g"
+        ]
+    }, 
+    "h": {
+        "name": "EI1;tS", 
+        "samples": {
+            "h": [
+                "heart", 
+                "happy", 
+                "hero"
+            ]
+        }, 
+        "sounds": [
+            "h"
+        ]
+    }, 
+    "i": {
+        "name": "AI1", 
+        "samples": {
+            "AI": [
+                "dinosaur"
+            ], 
+            "I": [
+                "give", 
+                "witch"
+            ], 
+            "i": [
+                "ski"
+            ]
+        }, 
+        "sounds": [
+            "I", 
+            "i", 
+            "AI"
+        ]
+    }, 
+    "j": {
+        "name": "dZ;EI1", 
+        "samples": {
+            "dZ": [
+                "jump", 
+                "jet", 
+                "jam"
+            ]
+        }, 
+        "sounds": [
+            "dZ"
+        ]
+    }, 
+    "k": {
+        "name": "k;EI1", 
+        "samples": {
+            "k": [
+                "kite", 
+                "king", 
+                "kid"
+            ]
+        }, 
+        "sounds": [
+            "k"
+        ]
+    }, 
+    "l": {
+        "name": "E1;l", 
+        "samples": {
+            "l": [
+                "lion", 
+                "lemon", 
+                "leaf"
+            ]
+        }, 
+        "sounds": [
+            "l"
+        ]
+    }, 
+    "m": {
+        "name": "E1;m", 
+        "samples": {
+            "m": [
+                "moon", 
+                "magic", 
+                "mom"
+            ]
+        }, 
+        "sounds": [
+            "m"
+        ]
+    }, 
+    "n": {
+        "name": "E1;n", 
+        "samples": {
+            "n": [
+                "nemo", 
+                "ninja", 
+                "nut"
+            ]
+        }, 
+        "sounds": [
+            "n"
+        ]
+    }, 
+    "o": {
+        "name": "@U1", 
+        "samples": {
+            "@U": [
+                "home"
+            ], 
+            "A": [
+                "rocket"
+            ], 
+            "O": [
+                "cog"
+            ], 
+            "V": [
+                "love"
+            ]
+        }, 
+        "sounds": [
+            "V", 
+            "@U", 
+            "A", 
+            "O"
+        ]
+    }, 
+    "p": {
+        "name": "p;i1", 
+        "samples": {
+            "p": [
+                "paw", 
+                "plane", 
+                "pirate", 
+                "police"
+            ]
+        }, 
+        "sounds": [
+            "p"
+        ]
+    }, 
+    "q": {
+        "name": "k;j;u1", 
+        "samples": {
+            "k": [
+                "queen", 
+                "squid", 
+                "squirell"
+            ]
+        }, 
+        "sounds": [
+            "k"
+        ]
+    }, 
+    "r": {
+        "name": "A1;r", 
+        "samples": {
+            "r": [
+                "rain", 
+                "robot"
+            ], 
+            "r=": [
+                "bird", 
+                "earth"
+            ]
+        }, 
+        "sounds": [
+            "r", 
+            "r="
+        ]
+    }, 
+    "s": {
+        "name": "E1;s", 
+        "samples": {
+            "s": [
+                "sun", 
+                "snake"
+            ], 
+            "z": [
+                "news", 
+                "nose"
+            ]
+        }, 
+        "sounds": [
+            "s", 
+            "z"
+        ]
+    }, 
+    "t": {
+        "name": "t;i1", 
+        "samples": {
+            "t": [
+                "taco", 
+                "taxi", 
+                "tank", 
+                "teddy"
+            ]
+        }, 
+        "sounds": [
+            "t"
+        ]
+    }, 
+    "u": {
+        "name": "j;u1", 
+        "samples": {
+            "V": [
+                "truck", 
+                "nut"
+            ], 
+            "j;u": [
+                "computer"
+            ], 
+            "u": [
+                "juice", 
+                "sushi"
+            ]
+        }, 
+        "sounds": [
+            "V", 
+            "u", 
+            "j;u"
+        ]
+    }, 
+    "v": {
+        "name": "v;i1", 
+        "samples": {
+            "v": [
+                "vacuum", 
+                "vase", 
+                "vampire"
+            ]
+        }, 
+        "sounds": [
+            "v"
+        ]
+    }, 
+    "w": {
+        "name": "d;V1;b;l;j;u0", 
+        "samples": {
+            "w": [
+                "walk", 
+                "wolf", 
+                "dwarf"
+            ]
+        }, 
+        "sounds": [
+            "w"
+        ]
+    }, 
+    "x": {
+        "name": "E1;k;s", 
+        "samples": {
+            "k;s": [
+                "fox", 
+                "box", 
+                "lynx", 
+                "taxi"
+            ]
+        }, 
+        "sounds": [
+            "k;s"
+        ]
+    }, 
+    "y": {
+        "name": "w;AI1", 
+        "samples": {
+            "AI": [
+                "sky"
+            ], 
+            "i": [
+                "candy", 
+                "puppy"
+            ], 
+            "j": [
+                "yeti", 
+                "yoghurt"
+            ]
+        }, 
+        "sounds": [
+            "i", 
+            "AI", 
+            "j"
+        ]
+    }, 
+    "z": {
+        "name": "z;i1", 
+        "samples": {
+            "z": [
+                "zipper", 
+                "zebra", 
+                "zoo"
+            ]
+        }, 
+        "sounds": [
+            "z"
+        ]
+    }
+}

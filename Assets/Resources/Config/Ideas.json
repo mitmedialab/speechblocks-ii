@@ -1,0 +1,1453 @@
+{
+	"starter-ideas": {
+		"starter-movie-1": {
+			"title": "movie",
+			"icon" : "camera.2",
+			"prompt": "Let's make a scene from {CHILD-DRIVEN:your favorite|MACHINE-DRIVEN:a} movie!",
+			"suggested-words": [
+				{
+					"word-sense": "actor",
+					"reason": "In every movie, there are actors who play!"
+				},
+				{
+					"word-sense": "actress",
+					"reason": "Actresses play in the movie!"
+				},
+				{
+					"word-sense": "film",
+					"reason": "The movie is recorded on film!"
+				},
+				{
+					"word-sense": "van",
+					"reason": "This van drives the movie crew around!"
+				},
+				{
+					"word-sense": "camera.2",
+					"reason": "The movie crew films the movie with a camera!"
+				},
+				{
+					"word-sense": "director",
+					"reason": "Director is in charge of filming a movie!"
+				},
+				{
+					"word-sense": "helicopter",
+					"reason": "Helicopters are used to film action scenes!"
+				}
+			]
+		},
+		"starter-holiday-1": {
+			"title": "holiday",
+			"icon": "firework",
+			"prompt": "What if we make a picture of {CHILD-DRIVEN:your favorite|MACHINE-DRIVEN:a} holiday?",
+			"suggested-words": [
+				{
+					"word-sense": "cake",
+					"reason": "Let's make a cake to celebrate!"
+				},
+				{
+					"word-sense": "decor",
+					"reason": "Looks like people decorated the room for the holiday!"
+				},
+				{
+					"word-sense": "firework",
+					"reason": "Fireworks make holidays special!"
+				},
+				{
+					"word-sense": "candle",
+					"reason": "During holidays, people often light up candles!"
+				},
+				{
+					"word-sense": "birthday",
+					"reason": "Maybe this celebration is for someone's birthday!"
+				}
+			]
+		},
+		"starter-street-1": {
+			"title": "a city street",
+			"icon": "skyscraper",
+			"prompt": "How about we make a picture of {CHILD-DRIVEN:the street where you live|MACHINE-DRIVEN:a city street}?",
+			"suggested-words": [
+				{
+					"word-sense": "house",
+					"reason": "Streets have houses along them!"
+				},
+				{
+					"word-sense": "shop",
+					"reason": "You can find shops on the streets, where people buy food and other things they need!"
+				},
+				{
+					"word-sense": "road",
+					"reason": "There are roads in the center of streets."
+				},
+				{
+					"word-sense": "tree",
+					"reason": "Trees make streets look beautiful!"
+				},
+				{
+					"word-sense": "car",
+					"reason": "Cars carry people around!"
+				},
+				{
+					"word-sense": "bus",
+					"reason": "Bus carries people along the street."
+				},
+				{
+					"word-sense": "skyscraper",
+					"reason": "Big streets sometimes have skyscrapers!"
+				}
+			]
+		},
+		"starter-room-1": {
+			"title": "a room",
+			"icon": "sofa",
+			"prompt": "Let's make a picture of {CHILD-DRIVEN:your room|MACHINE-DRIVEN:a room in a house}!",
+			"suggested-words": [
+				{
+					"word-sense": "rug",
+					"reason": "Rugs make rooms more warm and cozy!"
+				},
+				{
+					"word-sense": "lamp",
+					"reason": "Rooms have lamps to light them up at night!"
+				},
+				{
+					"word-sense": "desk",
+					"reason": "There are desks in some rooms, so that people have some place to work!"
+				},
+				{
+					"word-sense": "chair",
+					"reason": "Rooms have chairs, so that people can have a seat!"
+				},
+				{
+					"word-sense": "window",
+					"reason": "Rooms have windows, to let sunlight in!"
+				},
+				{
+					"word-sense": "sofa",
+					"reason": "Some rooms have sofas, so that people can relax there!"
+				}
+			]
+		},
+		"starter-vacation-1": {
+			"title": "a vacation trip",
+			"icon": "camp",
+			"prompt": "Let's make a picture of {CHILD-DRIVEN:your family|MACHINE-DRIVEN:a family} going on vacation!",
+			"suggested-words": [
+				{
+					"word-sense": "van",
+					"reason": "Some families use vans to get to their vacation destination!"
+				},
+				{
+					"word-sense": "ski",
+					"reason": "One way to have a fun vacation is to go skiing!"
+				},
+				{
+					"word-sense": "camp",
+					"reason": "To go camping is another fun way to spend a vacation!"
+				},
+				{
+					"word-sense": "kayak",
+					"reason": "Some love to go kayaking on vacation! Kayak looks like a small boat for one person."
+				},
+				{
+					"word-sense": "plane",
+					"reason": "One way to have a fun vacation is to travel on a plane!"
+				},
+				{
+					"word-sense": "camera.1",
+					"reason": "Camera is useful for making memorable photos on vacation!"
+				},
+				{
+					"word-sense": "surfboard",
+					"reason": "Surfboards are used to ride sea waves. This is difficult, but fun!"
+				}
+			]
+		},
+		"starter-job-1": {
+			"title": "things people use at work",
+			"icon": "computer",
+			"prompt": "Let's make a picture of {CHILD-DRIVEN:your parents|MACHINE-DRIVEN:things people use} at work!",
+			"suggested-words": [
+				{
+					"word-sense": "desk",
+					"reason": "Many people work at a desk!"
+				},
+				{
+					"word-sense": "chair.1_3",
+					"reason": "Chairs are needed at work, so that people can have a place to sit!"
+				},
+				{
+					"word-sense": "phone",
+					"reason": "People use phones to make business calls."
+				},
+				{
+					"word-sense": "xerox",
+					"reason": "People use xerox when they need to make copies of papers!"
+				},
+				{
+					"word-sense": "computer",
+					"reason": "Computers are very handy at work!"
+				},
+				{
+					"word-sense": "printer",
+					"reason": "Printers are useful to print all sorts of papers!"
+				}
+			]
+
+		},
+		"starter-free-time-1": {
+			"title": "hobbies",
+			"icon": "game",
+			"prompt": "Let's make a picture of {CHILD-DRIVEN:you doing your favorite thing in your|MACHINE-DRIVEN:people doing their favorite things in their} free time!",
+			"suggested-words": [
+				{
+					"word-sense": "ball",
+					"reason": "Some people like to play ball in their free time!"
+				},
+				{
+					"word-sense": "book",
+					"reason": "Some people like to read in their free time!"
+				},
+				{
+					"word-sense": "chess",
+					"reason": "Some people like to play chess with friends when they are free!"
+				},
+				{
+					"word-sense": "camp",
+					"reason": "Many people like to go camping when they are free!"
+				},
+				{
+					"word-sense": "ski",
+					"reason": "Some people enjoy to go skiing in their free time!"
+				},
+				{
+					"word-sense": "game",
+					"reason": "Some people enjoy videogames in their free time!"
+				},
+				{
+					"word-sense": "stove",
+					"reason": "Some people like to cook when they have free time!"
+				}
+			]
+		},
+		"starter-family-1": {
+			"title": "family",
+			"icon": "family",
+			"prompt": "Let's make a picture of {CHILD-DRIVEN:your|MACHINE-DRIVEN:a} family gathering!",
+			"suggested-words": [
+				{
+					"word-sense": "mom",
+					"reason": "Mother hosts the family gathering!"
+				},
+				{
+					"word-sense": "dad",
+					"reason": "Father hosts the family gathering!"
+				},
+				{
+					"word-sense": "son",
+					"reason": "The son is a part of the family too!"
+				},
+				{
+					"word-sense": "daughter",
+					"reason": "The daughter is a part of the family too!"
+				},
+				{
+					"word-sense": "baby",
+					"reason": "Mother and father have a little baby!"
+				},
+				{
+					"word-sense": "granpa",
+					"reason": "Granpa came to visit his grandchildren!"
+				},
+				{
+					"word-sense": "granma",
+					"reason": "Granma came to visit her grandchildren!"
+				},
+				{
+					"word-sense": "sofa",
+					"reason": "The whole family can sit on the sofa!"
+				},
+				{
+					"word-sense": "table",
+					"reason": "Food for the guests is served on the table!"
+				},
+				{
+					"word-sense": "cake",
+					"reason": "A delicious cake is made to threat the guests!"
+				}
+			]
+		},
+		"starter-dinosaurs-1": {
+			"title": "dinosaurs",
+			"icon": "dinosaur",
+			"prompt": "Let's make a picture from the age of dinosaurs!",
+			"suggested-words": [
+				{
+					"word-sense": "palm",
+					"reason": "During the time of dinosaurs, Earth was a lot warmer than today, and palm trees grew in many places!"
+				},
+				{
+					"word-sense": "dinosaur"
+				},
+				{
+					"word-sense": "t-rex",
+					"reason": "T-rex was a ferocious beast that hunted other dinosaurs!"
+				},
+				{
+					"word-sense": "pterosaur",
+					"reason": "Pterosaurs were dinosaurs that looked like birds and could fly!"
+				},
+				{
+					"word-sense": "ichtiosaur",
+					"reason": "Ichtiosaurs were dinosaurs that looked like fish and lived in the seas!"
+				},
+				{
+					"word-sense": "brontosaur",
+					"reason": "Brontosaurs were giant dinosaurs. They didn't hunt, instead they ate leaves from the tops of the trees!"
+				}
+			]
+		},
+		"starter-job-2": {
+			"prompt": "What would you like to do when you grow up? Let's make a picture of {CHILD-DRIVEN:you doing that}!"
+		},
+		"starter-job-3": {
+			"title": "jobs",
+			"icon": "worker",
+			"prompt": "{CHILD-DRIVEN:What do you think are the coolest jobs?} Let's make a picture of people doing {CHILD-DRIVEN:these|MACHINE-DRIVEN:some cool} jobs!",
+			"suggested-words": [
+				{
+					"word-sense": "doctor",
+					"reason": "Doctors help people who are sick!"
+				},
+				{
+					"word-sense": "fireman",
+					"reason": "Firemen save people from fire!"
+				},
+				{
+					"word-sense": "worker",
+					"reason": "Workers build all sorts of important things!"
+				},
+				{
+					"word-sense": "engineer",
+					"reason": "Engineers create all sorts of awesome machines!"
+				},
+				{
+					"word-sense": "artist",
+					"reason": "Artists make our world more beautiful!"
+				},
+				{
+					"word-sense": "policeman",
+					"reason": "Police protects people from criminals!"
+				},
+				{
+					"word-sense": "astronaut",
+					"reason": "Astronauts get to travel to space!"
+				},
+				{
+					"word-sense": "scientist",
+					"reason": "Scientists help us learn more about the world!"
+				}
+			]
+		},
+		"starter-alien-1": {
+			"title": "aliens",
+			"icon": "alien",
+			"prompt": "Let's make a picture of aliens living on another planet!",
+			"suggested-words": [
+				{
+					"word-sense": "alien"
+				},
+				{
+					"word-sense": "planet",
+					"reason": "Let's make a planet where aliens can live!"
+				},
+				{
+					"word-sense": "comet",
+					"reason": "Beautiful comets pass by the alien planet, and aliens visit them to enjoy the view!"
+				},
+				{
+					"word-sense": "coral",
+					"reason": "Instead of trees, these aliens have corals growing everywhere!"
+				},
+				{
+					"word-sense": "octopus",
+					"reason": "The aliens keep this octopus as a pet!"
+				},
+				{
+					"word-sense": "spaceship",
+					"reason": "Instead of cars, aliens move around in spaceships!"
+				}
+			]
+		},
+		"starter-city-1": {
+			"title": "city",
+			"icon": "city",
+			"prompt": "Let's make a picture of {CHILD-DRIVEN:the city, or town, or village where you live|MACHINE-DRIVEN:a city}!",
+			"suggested-words": [
+				{
+					"word-sense": "house",
+					"reason": "Cities have houses, where people can live!"
+				},
+				{
+					"word-sense": "road",
+					"reason": "Cities have roads, to help people move around!"
+				},
+				{
+					"word-sense": "shop",
+					"reason": "Cities need shops, where people can buy food and other things they need!"
+				},
+				{
+					"word-sense": "building",
+					"reason": "Every city has buildings!"
+				},
+				{
+					"word-sense": "school",
+					"reason": "Cities have schools where children can study!"
+				},
+				{
+					"word-sense": "library",
+					"reason": "City people visit libraries to read books!"
+				},
+				{
+					"word-sense": "hospital",
+					"reason": "Cities need hospitals, where doctors could take care of sick people!"
+				},
+				{
+					"word-sense": "factory",
+					"reason": "Cities have factories, where different things are made!"
+				},
+				{
+					"word-sense": "church",
+					"reason": "Cities may have churches, where people go to pray!"
+				},
+				{
+					"word-sense": "police",
+					"reason": "Police stations are needed to protect cities from crime!"
+				},
+				{
+					"word-sense": "fire-station",
+					"reason": "Fire stations are needed to protect cities from fires!"
+				},
+				{
+					"word-sense": "skyscraper",
+					"reason": "Big cities have skyscrapers, which are very tall buildings!"
+				}
+			]
+		},
+		"starter-card-1": {
+			"title": "a holiday card",
+			"icon": "flower",
+			"prompt": "Let's make a card for someone for the next holiday!",
+			"suggested-words": [
+				{
+					"word-sense": "heart",
+					"reason": "Let's add a heart to our card, to show our love!"
+				},
+				{
+					"word-sense": "flower",
+					"reason": "Let's add a flower to our card, to show our care!"
+				},
+				{
+					"word-sense": "firework",
+					"reason": "Let's add fireworks to create the holiday mood!"
+				},
+				{
+					"word-sense": "confetti",
+					"reason": "Let's add confetti to make our card more festive!"
+				},
+				{
+					"word-sense": "ornament",
+					"reason": "Let's add an ornament to make our card even more beautiful!"
+				}
+			]
+		},
+		"starter-pirates-1": {
+			"title": "pirates",
+			"icon": "pirate",
+			"prompt": "How about we make a picture about pirates?",
+			"suggested-words": [
+				{
+					"word-sense": "pirate"
+				},
+				{
+					"word-sense": "parrot",
+					"reason": "Some pirates kept parrots as pets!"
+				},
+				{
+					"word-sense": "sail-ship",
+					"reason": "Pirates traveled on sail ships"
+				},
+				{
+					"word-sense": "sabre",
+					"reason": "Pirates fought with blades called sabres"
+				},
+				{
+					"word-sense": "cannon",
+					"reason": "Pirates used cannons to attack ships"
+				},
+				{
+					"word-sense": "treasure",
+					"reason": "Pirates spent their lives looking for treasures"
+				}
+			]
+		},
+		"starter-fantasy-1": {
+			"title": "fairy tales",
+			"icon": "castle",
+			"prompt": "I love stories about kings and queens and dragons and knights! Let's make a fairy tale picture!",
+			"suggested-words": [
+				{
+					"word-sense": "king",
+					"reason": "Fairy tales often have kings!"
+				},
+				{
+					"word-sense": "knight",
+					"reason": "Knights serve the kings and protect people."
+				},
+				{
+					"word-sense": "sword",
+					"reason": "Knights need swords to fight."
+				},
+				{
+					"word-sense": "castle",
+					"reason": "Kings and knights live in castles."
+				},
+				{
+					"word-sense": "dragon",
+					"reason": "There are often dragons in fairy tales. Sometimes knights fight them, sometimes they ride them."
+				},
+				{
+					"word-sense": "wizard",
+					"reason": "Wizards craft powerful magic in fairy tales."
+				}
+			]
+		},
+		"starter-jungle-1": {
+			"title": "wild animals",
+			"icon": "fox",
+			"prompt": "Let's make a picture of animals who live in the wild!",
+			"suggested-words": [
+				{
+					"word-sense": "fox",
+					"reason": "Foxes live around the world. They are curious and smart. Some fairy tales say that foxes have magic."
+				},
+				{
+					"word-sense": "bear",
+					"reason": "Bears are the biggest of all the animals who hunt."
+				},
+				{
+					"word-sense": "lion",
+					"reason": "Lions live in Africa. They are known for their powerful roar!"
+				},
+				{
+					"word-sense": "zebra",
+					"reason": "Zebras roam in big grass fields in Africa. They look like horses, but with fancy stripes!"
+				},
+				{
+					"word-sense": "tiger",
+					"reason": "Tigers live in forests in Asia. They are big, beautiful cats."
+				},
+				{
+					"word-sense": "rhino",
+					"reason": "Rhinos live in Africa."
+				},
+				{
+					"word-sense": "lemur",
+					"reason": "Lemurs live on Madagaskar. They are very good at climbing trees thanks to their catchy tails."
+				},
+				{
+					"word-sense": "monkey",
+					"reason": "Monkeys live in many places around the world. They are quick, curious and agile."
+				},
+				{
+					"word-sense": "elephant",
+					"reason": "Elephants are the biggest of all animals."
+				}
+			]
+		},
+		"starter-farm-1": {
+			"title": "life on a farm",
+			"icon": "farm",
+			"prompt": "Have you ever been on a farm? How about we make a picture of a farm?",
+			"suggested-words": [
+				{
+					"word-sense": "farm"
+				},
+				{
+					"word-sense": "dog",
+					"reason": "Dogs guard farms and help farmers herd sheeps and goats."
+				},
+				{
+					"word-sense": "cow",
+					"reason": "Farmers keep cows for their milk."
+				},
+				{
+					"word-sense": "barn",
+					"reason": "Farm animals live in barns."
+				},
+				{
+					"word-sense": "sheep",
+					"reason": "Sheeps give farmers their hair, called wool, which is used to make clothes."
+				},
+				{
+					"word-sense": "goat",
+					"reason": "Goats give people milk and wool."
+				},
+				{
+					"word-sense": "horse",
+					"reason": "Farm people can ride on horses."
+				},
+				{
+					"word-sense": "tractor",
+					"reason": "Farmers use tractors to plow fields."
+				}
+			]
+		},
+		"starter-music-1": {
+			"title": "music concert",
+			"icon": "guitar",
+			"prompt": "Let's make a picture of a concert! It can be your favorite rock band, or it can be a classical concert!",
+			"suggested-words": [
+				{
+					"word-sense": "stage",
+					"reason": "The stage is where the musicians play!"
+				},
+				{
+					"word-sense": "sax",
+					"reason": "Musicians create very playful music with saxophone, or sax!"
+				},
+				{
+					"word-sense": "drum",
+					"reason": "The drum sets the rhythm of the music!"
+				},
+				{
+					"word-sense": "guitar",
+					"reason": "Guitar is the heart of the music!"
+				},
+				{
+					"word-sense": "piano",
+					"reason": "Piano can play very complex melodies!"
+				},
+				{
+					"word-sense": "violin",
+					"reason": "Violin plays gentle tunes!"
+				},
+				{
+					"word-sense": "cello",
+					"reason": "Cello looks like a big violin. It makes a gentle, deep sound!"
+				}
+			]
+		},
+		"starter-north-pole-1": {
+			"title": "life in the north",
+			"icon": "polar-bear",
+			"prompt": "I wonder what life is like in the North? How about we make a picture about that?",
+			"suggested-words": [
+				{
+					"word-sense": "igloo",
+					"reason": "Igloo is a snow house. It looks very cold, but it actually helps people inside to stay warm."
+				},
+				{
+					"word-sense": "seal",
+					"reason": "Many kinds of seals live in the north!"
+				},
+				{
+					"word-sense": "walrus",
+					"reason": "Walrus looks like a big seal with tusks. These giant animals live in northern seas."
+				},
+				{
+					"word-sense": "lemming",
+					"reason": "Lemmings are small mouse-like creatures who live in the north."
+				},
+				{
+					"word-sense": "polar-bear",
+					"reason": "Bears who live in the north have white fur to hide among the ice and snow."
+				},
+				{
+					"word-sense": "arctic-fox",
+					"reason": "Arctic foxes are small and white, which helps them to hide."
+				},
+				{
+					"word-sense": "penguin",
+					"reason": "Penguins actually live in the south, in the Antarctica. But this could be a traveler penguin who came to visit its friends in the North!"
+				}
+			]
+		},
+		"starter-airport-1": {
+			"title": "airports",
+			"icon": "airport",
+			"prompt": "I think airports are very cool! Let's make a picture of an airport!",
+			"suggested-words": [
+				{
+					"word-sense": "plane.1",
+					"reason": "Planes take off and land at the airport!"
+				},
+				{
+					"word-sense": "pilot",
+					"reason": "Planes need pilots to fly."
+				},
+				{
+					"word-sense": "copter",
+					"reason": "Helicopter is another flying machine that you can find at the airport."
+				},
+				{
+					"word-sense": "hangar",
+					"reason": "Hangar is the place where the planes are kept."
+				},
+				{
+					"word-sense": "airport"
+				},
+				{
+					"word-sense": "suitcase",
+					"reason": "Passengers carry all their things in suitcases."
+				}
+			]
+		},
+		"starter-sailor-1": {
+			"title": "sailors and ships",
+			"icon": "ship_1",
+			"prompt": "How about we make a picture of sailors traveling across the sea on ships?",
+			"suggested-words": [
+				{
+					"word-sense": "ship_1"
+				},
+				{
+					"word-sense": "sailor"
+				},
+				{
+					"word-sense": "captain",
+					"reason": "Captain guides the ship."
+				},
+				{
+					"word-sense": "tanker",
+					"reason": "Tanker is a kind of ship that carries oil."
+				},
+				{
+					"word-sense": "liner",
+					"reason": "Liner is a kind of ship that carries passengers."
+				},
+				{
+					"word-sense": "island",
+					"reason": "Looks like the saylors found an island in the sea!"
+				}
+			]
+		},
+		"starter-sport-1": {
+			"title": "sports",
+			"icon": "ball",
+			"prompt": "Let's make a picture of {CHILD-DRIVEN:people playing your favorite sport|MACHINE-DRIVEN:the things people use to play sports}!",
+			"suggested-words": [
+				{
+					"word-sense": "ball",
+					"reason": "A lot of games are played with balls: like soccer, basketball, voleyball!"
+				},
+				{
+					"word-sense": "ski",
+					"reason": "Skis are used in many winter sports: cross-country skiing, slalom and biatlon."
+				},
+				{
+					"word-sense": "skate",
+					"reason": "Skates can be used to play hockey or do figure skating."
+				},
+				{
+					"word-sense": "chess",
+					"reason": "Chess is also a sport, but a special one: you play it with your mind!"
+				},
+				{
+					"word-sense": "football",
+					"reason": "Football is a sport that is loved by a lot of people."
+				},
+				{
+					"word-sense": "racecar",
+					"reason": "Racecars are racing each other on special tracks. Many people think it is a very thrilling sport!"
+				}
+			]
+		},
+		"starter-adventure-1": { "prompt": "How about making a picture of {CHILD-DRIVEN:you|MACHINE-DRIVEN:explorers} going on an adventure?" },
+		"starter-pets-1": {
+			"title": "pets",
+			"icon": "cat",
+			"prompt": "Let's make a picture of people with their beloved pets!",
+			"suggested-words": [
+				{
+					"word-sense": "cat",
+					"reason": "Cats are clever, sweet and gentle. They make great pets!"
+				},
+				{
+					"word-sense": "dog",
+					"reason": "Dogs are smart, loyal, and adventurous! People love them as pets."
+				},
+				{
+					"word-sense": "fish",
+					"reason": "Some people keep fishes as pets. They are beautiful and easy to keep!"
+				},
+				{
+					"word-sense": "hamster",
+					"reason": "Hamsters are fun and easy to keep. This is why many people love to have them as pets."
+				},
+				{
+					"word-sense": "parrot",
+					"reason": "Parrots can speak words just like people do! They are very special pets."
+				},
+				{
+					"word-sense": "robot",
+					"reason": "Maybe this robot is also someone's pet. Or maybe the robot is the one who keeps all these pets!"
+				}
+			]
+		},
+		"starter-car-1": { "prompt": "Let's make a picture of {CHILD-DRIVEN:your|MACHINE-DRIVEN:a} family going on a road trip!" },
+		"starter-scientist-1": {
+			"title": "scientists",
+			"icon": "microscope",
+			"prompt": "How about we make a picture about scientists and the awesome things they do?",
+			"suggested-words": [
+				{
+					"word-sense": "lab",
+					"reason": "Scientists work in labs."
+				},
+				{
+					"word-sense": "robot",
+					"reason": "Scientists can use robots to help them with their work!"
+				},
+				{
+					"word-sense": "laser",
+					"reason": "Scientists use lasers to cut things."
+				},
+				{
+					"word-sense": "computer",
+					"reason": "Computers help scientists with their calculations."
+				},
+				{
+					"word-sense": "microscope",
+					"reason": "Microscopes help scientists see very small things!"
+				},
+				{
+					"word-sense": "telescope",
+					"reason": "Telescopes help scientists see faraway planets and stars!"
+				}
+			]
+		},
+		"starter-monsters-1": {
+			"title": "spooky creatures",
+			"icon": "ghost",
+			"prompt": "Do you like stories about ghosts, vampires, or zombies? Let's make a story with some spooky creatures!",
+			"suggested-words": [
+				{
+					"word-sense": "ghost"
+				},
+				{
+					"word-sense": "vampire"
+				},
+				{
+					"word-sense": "zombie"
+				},
+				{
+					"word-sense": "demon"
+				},
+				{
+					"word-sense": "spider"
+				},
+				{
+					"word-sense": "skeleton"
+				}
+			]
+		},
+		"starter-family-2": { "prompt": "Let's make a picture of a family! {CHILD-DRIVEN:Some people make pictures of their family, others make pictures of royal families, or families of animals. Which one would you like to make?}" },
+		"starter-party-1": {
+			"title": "party",
+			"icon": "cake",
+			"prompt": "Let's make a picture of a party!",
+			"suggested-words": [
+				{
+					"word-sense": "cake",
+					"reason": "People are happy to eat cakes at parties!"
+				},
+				{
+					"word-sense": "balloon.1",
+					"reason": "Ballons make parties very pretty!"
+				},
+				{
+					"word-sense": "decor",
+					"reason": "Decorations make the party feel festive!"
+				},
+				{
+					"word-sense": "gift",
+					"reason": "People exchange gifts at parties!"
+				},
+				{
+					"word-sense": "dress",
+					"reason": "People wear beautiful clothes to parties!"
+				}
+			]
+		},
+		"starter-astronauts-1": {
+			"title": "astronauts",
+			"icon": "astronaut",
+			"prompt": "Let's make a picture of astronauts exploring space!",
+			"suggested-words": [
+				{
+					"word-sense": "astronaut"
+				},
+				{
+					"word-sense": "rocket_1",
+					"reason": "Astronauts use rockets to get to space."
+				},
+				{
+					"word-sense": "shuttle",
+					"reason": "Space shuttle is another kind of spacecraft that can carry astronauts to space."
+				},
+				{
+					"word-sense": "moon",
+					"reason": "Moon is one place where astronauts can go."
+				},
+				{
+					"word-sense": "planet",
+					"reason": "Future astronauts will explore different planets on their journeys!"
+				},
+				{
+					"word-sense": "lander",
+					"reason": "Astronauts use landers to land on different planets."
+				},
+				{
+					"word-sense": "satellite",
+					"reason": "Satellites fly in space and do different helpful things. One reason astronauts go to space is to fix old satellites."
+				},
+				{
+					"word-sense": "saturn",
+					"reason": "Saturn is a planet that has big rings. It is a fun place for the astronauts to visit!"
+				},
+				{
+					"word-sense": "jupiter",
+					"reason": "Jupiter is the biggest planet that goes around the sun. Might be an interesting place for the astronauts to go!"
+				}
+			]
+		},
+		"starter-factory-1": {
+			"title": "a factory",
+			"icon": "conveyor",
+			"prompt": "Do you know how different things are made at factories? Let's make a picture of a factory!",
+			"suggested-words": [
+				{
+					"word-sense": "factory"
+				},
+				{
+					"word-sense": "car",
+					"reason": "Cars is one thing that factories make."
+				},
+				{
+					"word-sense": "worker",
+					"reason": "Workers are people who make things at factories!"
+				},
+				{
+					"word-sense": "engineer",
+					"reason": "Engineers at factories keep the machines running!"
+				},
+				{
+					"word-sense": "conveyor",
+					"reason": "Conveyors move things along the assembly line, while workers add parts to them."
+				},
+				{
+					"word-sense": "robot",
+					"reason": "Robots work at factories to help people make things."
+				},
+				{
+					"word-sense": "toolbox",
+					"reason": "Tools are needed to make different things."
+				}
+			]
+		},
+		"starter-ancient-1": {
+			"title": "life long time ago",
+			"icon": "castle",
+			"prompt": "What was the life like long-long time ago? How about we make a picture about how people used to live back then?",
+			"suggested-words": [
+				{
+					"word-sense": "king",
+					"reason": "In the past, most countries were ruled by kings and queens."
+				},
+				{
+					"word-sense": "queen",
+					"reason": "Queens and kings ruled most countries in the past."
+				},
+				{
+					"word-sense": "monk",
+					"reason": "Monks dedicated their lives to their faith. They were more common in the past."
+				},
+				{
+					"word-sense": "farmer",
+					"reason": "In the past, growing food was a lot harder than today, so most of the people were farmers."
+				},
+				{
+					"word-sense": "castle",
+					"reason": "Kings and queens used to live in castles."
+				},
+				{
+					"word-sense": "knight",
+					"reason": "Knights were warriors of old times. They served kings and queens."
+				},
+				{
+					"word-sense": "viking",
+					"reason": "Vikings were also warriors. They were considered very fierce and dangerous."
+				},
+				{
+					"word-sense": "cathedral",
+					"reason": "In the past, many cities built beautiful cathedrals to show their wealth and glory."
+				}
+			]
+		},
+		"starter-future-1": {
+			"title": "life in the future",
+			"icon": "saucer.2",
+			"prompt": "How do you think the people are going to live in the future? Let's make a picture about the future!",
+			"suggested-words": [
+				{
+					"word-sense": "robot",
+					"reason": "In the future, robots might become a lot smarter than they are today, and help people with great many things!"
+				},
+				{
+					"word-sense": "alien",
+					"reason": "In the future, people might meet aliens from faraway space!"
+				},
+				{
+					"word-sense": "rocket_1",
+					"reason": "In the future, more people may start to go to space in rockets!"
+				},
+				{
+					"word-sense": "saucer.2",
+					"reason": "In the future, people may start to travel in flying saucers instead of cars!"
+				},
+				{
+					"word-sense": "inventor",
+					"reason": "Many new inventions are going to be made in the future!"
+				},
+				{
+					"word-sense": "skyscraper",
+					"reason": "In the future, more tall skyscrapers might be built!"
+				}
+			]
+		},
+		"starter-underwater-1": {
+			"title": "underwater life",
+			"icon": "octopus",
+			"prompt": "I'm so interested in the underwater world: the fishes, the sea turtles, the octopi, the submarines! How about we make a picture of an underwater adventure?",
+			"suggested-words": [
+				{
+					"word-sense": "fish",
+					"reason": "Underwater, there are fishes everywhere!"
+				},
+				{
+					"word-sense": "shark",
+					"reason": "Sharks are lurking underwater, looking for prey!"
+				},
+				{
+					"word-sense": "coral",
+					"reason": "Corals make beautiful reefs underwater. Many creatures live in these reefs!"
+				},
+				{
+					"word-sense": "turtle",
+					"reason": "Gentle turtles swim in the seas!"
+				},
+				{
+					"word-sense": "octopus",
+					"reason": "Octopus is an amazing creature that you can find underwater!"
+				},
+				{
+					"word-sense": "submarine",
+					"reason": "Submarines help us explore the underwater world!"
+				}
+			]
+		},
+		"starter-food-1": {
+			"title": "cooking",
+			"icon": "pot",
+			"prompt": "Do you like good food? Let's make a picture of a tasty meal being prepared in a kitchen!",
+			"suggested-words": [
+				{
+					"word-sense": "pot",
+					"reason": "Tasty food is often cooked in pots!"
+				},
+				{
+					"word-sense": "knife",
+					"reason": "Knives are of good use when preparing food!"
+				},
+				{
+					"word-sense": "oven",
+					"reason": "Ovens can be used to bake something!"
+				},
+				{
+					"word-sense": "stove",
+					"reason": "Stoves are needed to boil and fry meals!"
+				},
+				{
+					"word-sense": "soup",
+					"reason": "Looks like this soup is being cooked!"
+				},
+				{
+					"word-sense": "plate",
+					"reason": "Plates are waiting for the meal to be served!"
+				}
+			]
+		},
+		"starter-park-1": {
+			"title": "walking in a park",
+			"icon": "lawn",
+			"prompt": "Do you like to go for a walk? Let's make a picture of a nice park!",
+			"suggested-words": [
+				{
+					"word-sense": "lawn",
+					"reason": "Many parks have beautiful lawns!"
+				},
+				{
+					"word-sense": "dog",
+					"reason": "People bring their dogs to play in parks!"
+				},
+				{
+					"word-sense": "tree",
+					"reason": "Beautiful trees grow in parks!"
+				},
+				{
+					"word-sense": "bench",
+					"reason": "Benches are put in the parks, so that people can relax and enjoy reading!"
+				},
+				{
+					"word-sense": "flower",
+					"reason": "Flowers grow on lawns in the park!"
+				},
+				{
+					"word-sense": "frisbee",
+					"reason": "Many people like to play frisbee in the park!"
+				},
+				{
+					"word-sense": "tennis",
+					"reason": "Some people go to the park to play tennis!"
+				}
+			]
+		},
+		"starter-park-2": {
+			"prompt": "Do you like theme parks? Let's make a picture of one!",
+			"suggested-words": []
+		},
+		"starter-dress-1": {
+			"title": "things people wear",
+			"icon": "dress",
+			"prompt": "Let's dress someone up! How about we make beautiful clothes for someone?",
+			"suggested-words": [
+				{
+					"word-sense": "hat"
+				},
+				{
+					"word-sense": "suit"
+				},
+				{
+					"word-sense": "dress"
+				},
+				{
+					"word-sense": "shirt"
+				},
+				{
+					"word-sense": "shoe"
+				},
+				{
+					"word-sense": "jeans"
+				}
+			]
+		},
+		"starter-race-1": {
+			"title": "a motor race",
+			"icon": "motorbike",
+			"prompt": "Do you like different vehicles, like cars, or planes? What if there was a race between them? Let's make a picture about that!",
+			"suggested-words": [
+				{
+					"word-sense": "race-car",
+					"reason": "Race cars are specially made for races!"
+				},
+				{
+					"word-sense": "jet",
+					"reason": "Jets can go very fast!"
+				},
+				{
+					"word-sense": "rocket_1",
+					"reason": "Rockets are very fast vehicles too!"
+				},
+				{
+					"word-sense": "motorbike",
+					"reason": "Motorbikes are often used for racing!"
+				},
+				{
+					"word-sense": "truck.1",
+					"reason": "Maybe trucks can race, too!"
+				}
+			]
+		},
+		"starter-magic-1": {
+			"title": "a magic land",
+			"icon": "elf",
+			"prompt": "Are you interested in magic? Let's make a picture of a magic land, with dragons, or fairies, or elves!",
+			"suggested-words": [
+				{
+					"word-sense": "elf",
+					"reason": "Elves live very long lives, so they are wise and good with magic."
+				},
+				{
+					"word-sense": "dwarf",
+					"reason": "Dwarves work in mines in magic lands."
+				},
+				{
+					"word-sense": "troll",
+					"reason": "Trolls are magic creatures who can sometimes cause trouble!"
+				},
+				{
+					"word-sense": "fairy",
+					"reason": "Fairies draw their magic powers from nature."
+				},
+				{
+					"word-sense": "dragon",
+					"reason": "Dragons are powerful magical creatures!"
+				},
+				{
+					"word-sense": "unicorn",
+					"reason": "Unicorns roam in magic lands."
+				}
+			]
+		},
+		"starter-magic-2": {
+			"title": "magic",
+			"icon": "wizard",
+			"prompt": "Are you interested in magic? Let's make a picture of people who do magic!",
+			"suggested-words": [
+				{
+					"word-sense": "witch",
+					"reason": "Witches do a kind of magic called witchcraft!"
+				},
+				{
+					"word-sense": "wizard",
+					"reason": "Wizards know some powerful magic!"
+				},
+				{
+					"word-sense": "wand",
+					"reason": "Wands can be used to cast spells!"
+				},
+				{
+					"word-sense": "orb",
+					"reason": "Orb is a glass ball that wizards and witches use to do magic."
+				},
+				{
+					"word-sense": "potion",
+					"reason": "Those who do magic use potions to help them."
+				},
+				{
+					"word-sense": "cauldron",
+					"reason": "Wizards and witches use cauldrons to make potions."
+				}
+			]
+		},
+		"starter-doctors-1": {
+			"title": "doctors",
+			"icon": "doctor_1",
+			"prompt": "I love how doctors help people! Let's make a picture of how doctors work in a hospital!",
+			"suggested-words": [
+				{
+					"word-sense": "germ",
+					"reason": "Germs make people sick. Doctors fight germs!"
+				},
+				{
+					"word-sense": "doctor_1",
+					"reason": "This is a doctor who helps people."
+				},
+				{
+					"word-sense": "pill",
+					"reason": "Doctors can give sick people pills."
+				},
+				{
+					"word-sense": "nurse_2",
+					"reason": "Nurses help doctors do their work."
+				},
+				{
+					"word-sense": "hospital",
+					"reason": "Doctors work in hospitals."
+				}
+			]
+		},
+		"starter-firemen-1": {
+			"title": "firemen",
+			"icon": "fireman",
+			"prompt": "I love firemen! They are so brave, and they save people! Why don't we make a picture about firemen?",
+			"suggested-words": [
+				{
+					"word-sense": "house",
+					"reason": "There is a house on fire!"
+				},
+				{
+					"word-sense": "fire",
+					"reason": "There is a fire that needs to be put down!"
+				},
+				{
+					"word-sense": "fireman",
+					"reason": "A fireman fights the fire!"
+				},
+				{
+					"word-sense": "firetruck",
+					"reason": "This is the truck that firemen ride in."
+				},
+				{
+					"word-sense": "firestation",
+					"reason": "This is the place where firemen stay."
+				}
+			]
+		}
+	},
+	"contextual-ideas": {
+		"context-character-friends-1": { "roles" : {"C" : "CERTAINLY-CHARACTER"}, "prompt": "How about we make a picture of <the+C> doing something fun with <the+C's> friends?" },
+		"context-character-friends-1a": { "roles" : {"C" : "PROBABLY-CHARACTER"}, "prompt": "Does <the+C> have friends? How about we make a picture of <the+C> doing something fun with <the+C's> friends?" },
+		"context-character-family-1": { "roles" : {"C" : "CERTAINLY-CHARACTER"}, "prompt": "Let's make a picture of <the+C> having a great time with <the+C's> family!" },
+		"context-character-family-1a": { "roles" : {"C" : "PROBABLY-CHARACTER"}, "prompt": "Does <the+C> have family? Let's make a picture of <the+C> having a great time with <the+C's> family!" },
+		"context-character-likes-1": { "roles" : {"C" : "CHARACTER"}, "prompt": "I wonder what <the+C> <C:like> to do? Let's make a picture of <the+C> doing what <the+C> <C:like> to do most!" },
+		"context-character-food-1": { "roles" : {"C" : "CHARACTER"}, "prompt": "I'm curious what <the+C> <C:like> to eat? How about giving some food to <the+C>?" },
+		"context-character-home-1": { "roles" : {"C" : "CHARACTER"}, "prompt": "I wonder what <the+C's> home looks like? Let's make a picture of <the+C> enjoying sweet time at home!" },
+		"context-character-adventure-1": { "roles" : {"C" : "CHARACTER"},"prompt": "I wonder where <the+C> would like to go on an adventure? Let's make a picture of <the+C> enjoying the adventure of <the+C's> life!" },
+		"context-character-dress-1": { "roles" : {"C" : "DRESSUP-CHARACTER"}, "prompt": "Let's dress <the+C> up! What <the+C> <C:like> to wear? Let's add it to the picture!" },
+		"context-lives-place-1": { "roles" : {"P" : "PLACE"}, "prompt": "I'm curious who lives in <the+P>? Let's add them to the picture!" },
+		"context-tool-1": { "roles" : {"T" : "TOOL"}, "prompt": "You can use <the+T> to make so many cool things! Let's make a picture of someone making something with <the+T>!" },
+		"context-weapon-1": { "roles" : {"W" : "WEAPON"}, "prompt": "<the+W> can be used in battle. I wonder if there is a battle going on? Who are fighting? How do they fight?" },
+		"context-body-of-water-1": { "roles" : {"W" : "BODY-OF-WATER"}, "prompt": "People enjoy swimming in <the+W>! Let's make a picture of a beach party!" },
+		"context-body-of-water-2": { "roles" : {"W" : "BODY-OF-WATER"}, "prompt": "There are so many cool animals, fishes and birds that live in <the+W>! What if we make pictures of <the+W> life?" },
+		"context-body-of-water-3": { "roles" : {"W" : "BODY-OF-WATER"}, "prompt": "<the+W> is a great place for ships! Let's add some cool ships to <the+W>! Where are they going? What are they carrying?" },
+		"context-vehicle-1": { "roles" : {"V" : "ANY-VEHICLE"}, "prompt": "Where is <the+V> going? Let's show it in our picture!" },
+		"context-vehicle-2": { "roles" : {"V" : "VEHICLE"}, "prompt": "Who is riding in <the+V>? Let's add them to the picture!" },
+		"context-riding-vehicle-2": { "roles" : {"V" : "RIDING-VEHICLE"}, "prompt": "Who is riding on <the+V>? Let's add them to the picture!" },
+		"context-vehicle-3": { "roles" : {"V" : "VEHICLE"}, "prompt": "Who steers <the+V>? Let's add this person to the picture!" },
+		"context-vehicle-4": { "roles" : {"V" : "VEHICLE"}, "prompt": "Where do <V+s> stay when they are not traveling? Let's make a picture of that place!" },
+		"context-vehicle-5": { "roles" : {"V" : "ROAD-VEHICLE"}, "prompt": "Is <the+V> driving on a street? Let's make a picture of the street, with all the buildings, trees, cars and people!" },
+		"context-vehicle-6": { "roles" : {"V" : "ROAD-VEHICLE"}, "prompt": "Is <the+V> driving on a road? Let's make the road and different things on the road! Like gas stations and traffic lights!" },
+		"context-vehicle-7": { "roles" : {"V" : "CARGO-VEHICLE"}, "prompt": "Does <the+V> carry some cargo? What is that? Let's make it and put inside <the+V>!" },
+		"context-airport-1": { "roles" : {"A" : "AIRCRAFT"}, "prompt": "<the+A> needs to land in airport. There are so many cool things in airports! Like planes, or fire trucks, or luggage, or passengers. What if we make a picture of different things in an airport?" },
+		"context-port-1": { "roles" : {"S" : "SHIP"}, "prompt": "<S> needs to dock in a port. There are so many cool things in ports! Like ships, and docks, and cargo from faraway places! What if we make a picture of different things in a port?" },
+		"context-machine-1": { "roles" : {"M" : "MACHINE"}, "prompt": "I wonder how does the factory where they make <M+s> looks like? Let's make such a factory!" },
+		"context-machine-2": { "roles" : {"M" : "MACHINE"}, "prompt": "<M+s> sometimes need maintenance and repair! Let's show it in the picture. Who is working on <the+M>? What tools do they need?" },
+		"context-sense-1": { "roles" : {"O" : "SENSE-ORGAN"}, "prompt": "What things can you feel with <O>? Let's add them to our picture!" },
+		"context-family-1": { "roles" : {"S" : "HOME-STUFF"}, "prompt": "It looks like <the+S> is in a house. I wonder who lives in that house? What do they do around <the+S>? Let's make a picture of that!" },
+		"context-food-1": { "roles" : {"T" : "FOOD-TABLE"}, "prompt": "<the+T> can hold some tasty food! Let's make a picture of people having a feast!" },
+		"context-food-2": { "roles" : {"K" : "KITCHEN-ITEM"}, "prompt": "<K+s> are usually in a kitchen. People cook delicious meals in the kitchen! What if we make a picture of someone cooking tasty food?" },
+		"context-food-3": { "roles" : {"U" : "UTENSIL"}, "prompt": "Let's make a lot of tasty food, so that we can use <the+U> with it!" },
+		"context-food-4": { "roles" : {"F" : "FOOD"}, "prompt" : "<F> can be very tasty! Let's make someone who can enjoy <F>!"},
+		"context-food-5": { "roles" : {"F" : "FOOD-NEEDING-PREPARATION"}, "prompt" : "Someone needs to make <the+F> before it can be eaten. Let's make a picture of how someone cooks!"},
+		"context-food-6": { "roles" : {"F" : "EATERY-FOOD"}, "prompt" : "You can have <F> at a restaraunt. What if we make a picture of friends enjoying their time at a restaraunt?"},
+		"context-food-7": { "roles" : {"F" : "READY-MADE-FOOD"}, "prompt" : "Before you can eat <F>, it needs to be made somewhere. I wonder how do they make it? What if we make a picture about it?"},
+		"context-food-8": { "roles" : {"F" : "SHOP-FOOD"}, "prompt" : "<F> can be found in a shop. I wonder if we can make a picture of someone going to a shop to get some <F>?"},
+		"context-sit-together-1": { "roles" : {"F" : "FURNITURE-FOR-SITTING"}, "prompt": "People can sit on <F> and spend time together. They can watch a movie, have some food, or chat with friends. Let's make a picture of people enjoying time together!" },
+		"context-city-1": { "roles" : {"B" : "BUILDING"}, "prompt": "<the+B> is probably a city! Cities have many interesting things: buildings, trees, roads, bus stops, cars, traffic lights, and so on! Let's make a picture of a city!" },
+		"context-construction-1": {  "roles" : {"B" : "BUILDING"}, "prompt": "What if <the+B> is not finished yet, and they are working on its construction? Let's make a construction scene!" },
+		"context-construction-2": { "roles" : {"C" : "CONSTRUCTION-EQUIPMENT"}, "prompt": "Looks like <the+C> is building something! What is it? Let's add it to our picture!" },
+		"context-store-1": { "roles" : {"S" : "STORE"}, "prompt": "What are the things that you can buy in <the+S>? Let's make them!" },
+		"context-building-1": { "roles" : {"B" : "PUBLIC-BUILDING"}, "prompt": "How do people come to <the+B>? Let's make vehicles that brought them!" },
+		"context-building-2": { "roles" : {"B" : "PUBLIC-BUILDING"}, "prompt": "What people usually do inside <the+B>? What things do they use when doing it? Let's add those things to the picture!" },
+		"context-baby-1": { "roles" : {"B" : "baby"}, "prompt": "What if we give <the+B> something to play with?" },
+		"context-baby-2": { "roles" : {"B" : "baby"}, "prompt": "How do parents take care of <the+B>? Maybe they are playing with <the+B> or feeding <the+B>? Let's make a picture of parents caring for <the+B>!" },
+		"context-family-2": { "roles" : {"P" : "PARENT"}, "prompt": "Is <P> doing something fun with kids? What if we make a picture of fun family time?" },
+		"context-play-1": { "roles" : {"C" : "CHILD"}, "prompt": "Is <the+C> playing? What is <the+C> playing with? Let's make a picture of fun play!" },
+		"context-magician-1": { "roles" : {"M" : "MAGICIAN"}, "prompt": "<M+s> often have familiars: special animal companions, like owls or cats. Let's make such an animal for <the+M>!" },
+		"context-magician-2": { "roles" : {"M" : "MAGICIAN"}, "prompt": "<M+s> have a lot of things to help them do magic: books of spells, cauldrons, magic wands, and so on. Let's make a place where <the+M> lives, with all sorts of magic things in it!" },
+		"context-magician-3": { "roles" : {"M" : "MAGICIAN"}, "prompt": "What does <M's> magic look like? Is it fire magic or water magic or some other sort of magic? Let's make a picture of it!" },
+		"context-aliens-1": { "roles" : {"C" : "CELESTIAL-BODY"}, "prompt": "Imagine if there were aliens living on <the+C>! What would their life look like? What would they do? Let's make a picture about them!" },
+		"context-astronauts-1": { "roles" : {"C" : "CELESTIAL-BODY"}, "prompt": "What if astronauts came to explore <the+C>? What would they ride on? What would they do? Let's make a picture about space exploration!" },
+		"context-duty-1": { "roles" : {"D" : "DUTY-PERSON"}, "prompt": "<D+s> protect people. Let's make a picture of how people are protected by <the+D>!" },
+		"context-duty-2": { "roles" : {"D" : "DUTY-PERSON"}, "prompt": "<D+s> go through a lot of training. Let's make a picture of how <the+D> trains!" },
+		"context-military-1": { "roles" : {"M" : "MILITARY-THING"}, "prompt": "<M+s> can take part in a parade. Let's make a picture of a parade!" },
+		"context-holiday-1": { "roles" : {"H" : "HOLIDAY-STUFF"}, "prompt": "<H+s> are used when celebrating! What if we make a picture of a celebration?" },
+		"context-law-person-1": { "roles" : {"L" : "LAW-PERSON"}, "prompt": "<L+s> often fight crime. What if we make a picture of <the+L> fighting crime?" },
+		"context-warrior-1": { "roles" : {"W" : "WARRIOR"}, "prompt": "<W+s> go on heroic adventures. Let's make a picture of <the+W> on an adventure!" },
+		"context-warrior-2": { "roles" : {"W" : "WARRIOR"}, "prompt": "<W+s> can protect people from villains and monsters! What if we show how <the+W> protects people?" },
+		"context-warrior-3": { "roles" : {"W" : "WARRIOR"}, "prompt": "<W+s> are skilled with weapons. Let's make some weapons for <the+W> to practice with!" },
+		"context-monster-1": { "roles" : {"M" : "MONSTER"}, "prompt": "<M+s> can be terrifying! Let's add someone who will protect the people from <the+M>!" },
+		"context-performance-1": { "roles" : {"E" : "ENTERTAINER"}, "prompt": "Looks like <the+E> is doing a performance! Are there people watching? Does <the+E> use any props? Let's make a picture about that!" },
+		"context-performance-2": { "roles" : {"E" : "ENTERTAINER"}, "prompt": "It seems that <the+E> is performing! I wonder if it is for a movie? What if we can add people who are filming a movie?" },
+		"context-music-1": { "roles" : {"M" : "MUSICAL-INSTRUMENT"}, "prompt": "<M+s> can be used to play awesome music! What if there is a concert going on? Are there many musicians? Are there people watching? Let's make a picture of it!" },
+		"context-music-2": { "roles" : {"M" : "MUSICAL-INSTRUMENT"}, "prompt": "With <the+M>, one can play great music at a festival or a parade! What if we make a picture of some celebration going on?" },
+		"context-forest-1": { "roles" : {"T" : "TREE"}, "prompt": "<T+s> can grow in a forest. Are there animals living in the forest? Let's make a forest scene!" },
+		"context-entertainment-1": { "roles" : {"E" : "ENTERTAINMENT"}, "prompt": "Who is watching <E>? Are they excited? Let's put them onto the picture!" },
+		"context-farm-1": { "roles" : {"F" : "FARM-ANIMAL"}, "prompt": "Does <the+F> live on a farm? What other cool things can you find on a farm? Let's add them to the picture!" },
+		"context-farm-2": { "roles" : {"F" : "FARM-OBJECT"}, "prompt": "<F+s> can be found on a farm. Farms have so many cool things! Let's add them to the picture!" },
+		"context-farm-3": { "roles" : {"F" : "FARM-GROWN"}, "prompt": "<F+s> can be grown on a farm. Let's have a picture of how <F+s> are grown!" },
+		"context-medical-person-1": { "roles" : {"M" : "MEDICAL-PERSON"}, "prompt": "<M+s> help people who are sick. Let's make a picture of them at work!" },
+		"context-microorganism-1": { "roles" : {"M" : "MICROORGANISM"}, "prompt": "<M+s> can make someone sick! Let's make a doctor to help!" },
+		"context-spaceship-1": { "roles" : {"S" : "SPACESHIP"}, "prompt": "Is <the+S> doing space exploration? What will it encounter on the final frontier? Let's make a picture of it!" },
+		"context-job-1": { "roles" : {"P" : "PROFESSIONAL"}, "prompt": "When <the+P> works, does <the+P> use any tools? Let's add them to the picture!" },
+		"context-job-2": { "roles" : {"P" : "PROFESSIONAL"}, "prompt": "Where does <the+P> work? How does that place look like? Let's make a picture of <the+P> at work!" },
+		"context-job-3": { "roles" : {"P" : "PROFESSIONAL"}, "prompt": "When <the+P> works, which people are around? Let's make a picture of <the+P> at work!" },
+		"context-magic-creature-1": { "roles" : {"M" : "MAGIC-CREATURE"}, "prompt": "Does <the+M> live in a magic land? What magic things are there? What magic creatures live in that place? Let's make a picture of a magic land!" },
+		"context-magic-creature-2": { "roles" : {"M" : "MAGIC-CREATURE"}, "prompt": "If a hero met <the+M>, what would happen? Would <the+M> be friendly or hostile? Let's make a story about a hero running into <the+M>!" },
+		"context-magic-creature-3": { "roles" : {"M" : "MAGIC-CREATURE"}, "prompt": "Can <the+M> do magic? Is it fire magic or forest magic or some other sort of magic? Let's make a picture of <the+M> doing magic!" },
+		"context-equine-1": { "roles" : {"E" : "EQUINE"}, "prompt": "What if we make someone who rides on <the+E>?" },
+		"context-equine-2": { "roles" : {"E" : "EQUINE"}, "prompt": "What if <the+E> pulls a carriage? Let's make one!" },
+		"context-equine-3": { "roles" : {"E" : "EQUINE"}, "prompt": "What if <the+E> is in a horse race? How about we make a picture of one?" },
+		"context-luxury-1": { "roles" : {"L" : "LUXURY-PERSON"}, "prompt": "<L+s> can live in luxury. What if we make some beatuful things for <the+L>?" },
+		"context-movie-1": { "roles" : {"M" : "MOVIE-PERSON"}, "prompt": "Looks like <M> is working on a movie. Let's make a picture of how the movie is being filmed!" }
+	},
+	"ideation-hypernyms": {
+		"ANIMAL" : "alligator,alpaca,ant,anteater,antelope,armadillo,baboon,badger,bat,bear,beaver,bee,beetle,bison,boar,buffalo,bug,bull,butterfly,camel,cat,caterpillar,centipede,chameleon,chicken,chimpanzee,chipmunk,cobra,cockroach,cow,coyote,crab,cricket,crocodile,crow,deer,dinosaur,dog,dolphin,donkey,dove,duck,eagle,echidna,elephant,emu,falcon,ferret,fish,flamingo,fly,fox,gazelle,giraffe,goat,goose,gorilla,grasshopper,gull,hawk,hedgehog,hippopotamus,hornet,horse,hyena,iguana,jaguar,jellyfish,kangaroo,koala,ladybug,leopard,lion,lizard,llama,lobster,marten,mink,mole,monkey,moose,mosquito,moth,mouse,octopus,orangutan,orca,ostrich,otter,owl,ox,panda,panther,parrot,peacock,penguin,pig,pony,rabbit,racoon,rat,rhinoceros,rooster,sable,salmon,scarab,scorpion,seal,shark,sheep,skunk,sloth,slug,snail,snake,spider,squid,squirrel,stork,swallow,swan,tarantula,tiger,toad,turkey,turtle,warthog,wasp,weasel,whale,wolf,woodpecker,worm,yak,zebra",
+		"HUMAN" : "man,woman,boy,girl,grandfather,grandmother,adolescent",
+		"CERTAINLY-CHARACTER": "NAME,HUMAN,ANIMAL,robot,PROFESSIONAL",
+		"PROBABLY-CHARACTER" : "ANIMAL,robot,PROFESSIONAL,MAGIC-CREATURE,MAGICIAN",
+		"CHARACTER" : "CERTAINLY-CHARACTER,PROBABLY-CHARACTER",
+		"DRESSUP-CHARACTER": "NAME,HUMAN",
+		"PLACE": "house,cave,den,castle,mansion,palace,barn,kennel",
+		"BODY-OF-WATER" : "river,lake,sea,ocean,pond",
+		"VEHICLE": "airship,airplane,airbus,balloon.2,boeing,aeroplane,ambulance,battleship,boat,bomber,bus,chopper,copter,car,carriage,cruiser,destroyer,helicopter,jet,lander,liner,cruise-ship,locomotive,pickup,plane.1,sailboat,ship,shuttle,sled,snowmobile,spacecraft,spaceship,starship,rocket,submarine,tank,taxi,tanker,tractor,trailer,tram,truck.1,truck.2,van,warship",
+		"RIDING-VEHICLE": "bike.1,chariot,sled,unicycle",
+		"ROAD-VEHICLE": "ambulance,bike.1,bus,car,carriage,pickup,steamroller,taxi,tractor,truck.1,truck.2,van",
+		"CARGO-VEHICLE": "airship,airplane,airbus,boeing,aeroplane,carriage,container-ship,cargo-ship,pickup,sailboat,ship,tanker,trailer,truck.1,truck.2,van",
+		"ANY-VEHICLE" : "VEHICLE,RIDING-VEHICLE",
+		"MACHINE": "VEHICLE,RIDING-VEHICLE,HOME-APPLIANCE,OFFICE-APPLIANCE,CONSTRUCTION-EQUIPMENT,engine,turbine,wind-turbine,solar-panel,robot",
+		"AIRCRAFT": "airship,airplane,aeroplane,airbus,balloon.2,boeing,bomber,fighter,helicopter,jet,plane.1,chopper,copter",
+		"SHIP": "battleship,boat,container-ship,cargo-ship,cruise-ship,cruiser,destroyer,sailboat,ship,submarine,tanker,warship",
+		"SENSE-ORGAN": "ear,nose,eye,finger,tongue",
+		"HOME-APPLIANCE": "dishwasher,dryer,fridge,iron,microwave,oven,stove,toaster,vacuum,washer,computer,phone,smartphone,air-conditioner,ac,television,tv",
+		"FURNITURE": "furniture,armchair,chair.1,sofa,dresser,bed,bookshelf,wardrobe,table,desk",
+		"FOOD-TABLE": "table",
+		"HOME-STUFF": "HOME-APPLIANCE,FURNITURE,window,door,rug,carpet",
+		"OFFICE-APPLIANCE" : "computer,printer,xerox",
+		"WORK-STUFF": "OFFICE-APPLIANCE,desk",
+		"FURNITURE-FOR-SITTING": "armchair,chair.1,sofa",
+		"CONSTRUCTION-EQUIPMENT": "bulldozer,excavator,crane.1",
+		"BERRY" : "blackberry,blueberry,raspberry,strawberry,cherry",
+		"FRUIT" : "apple,apricot,banana,grape,lemon,mango,orange,peach,pear,pineapple,plum",
+		"BERRY-OR-FRUIT" : "BERRY,FRUIT",
+		"VEGETABLE" : "beet,carrot,cucumber,onion,pepper,potato,pumpkin,tomato",
+		"FARM-GROWN" : "BERRY,FRUIT,VEGETABLE",
+		"BUILDING": "bus-stop,skyscraper,church,pagoda,palace,clinic,hospital,shrine,barn,observatory,synagogue,mall,cathedral,shop,greenhouse,library,school,capitol,court,house,hall,mansion,mosque,hotel",
+		"STORE": "shop,grocery,pharmacy,mall,boutique,market",
+		"PUBLIC-BUILDING": "skyscraper,church,pagoda,clinic,hospital,synagogue,cathedral,library,school,capitol,court,hall,mosque,hotel",
+		"MAGICIAN": "wizard,mage,witch,warlock,magus",
+		"DUTY-PERSON": "policeman,policewoman,fireman,soldier,officer.1,officer.2",
+		"MILITARY-THING": "fighter,bomber,battleship,destroyer,warship,tank,cannon,soldier,officer.1",
+		"HOLIDAY-STUFF": "balloon.1,cake,candle,christmas-tree,glitter,sparkle,confetti",
+		"LAW-PERSON": "detective,policeman,policewoman,officer.2,sheriff",
+		"WARRIOR": "warrior,knight,viking,ninja,samurai",
+		"MONSTER": "ghost,zombie,vampire,dragon,monster,skeleton",
+		"MUSICAL-INSTRUMENT": "violin,harp,piano,lute,trumpet,flute,sax,trombone,guitar,drum",
+		"FARM-ANIMAL": "cow,pig,horse,sheep,dog",
+		"FARM-OBJECT": "tractor,barn,farmer",
+		"MEDICAL-PERSON": "doctor,dentist,nurse",
+		"SPACESHIP": "spacecraft,spaceship,starship,rocket_1,booster,lander,space-station,satellite",
+		"PARENT": "father,mother,grandfather,grandmother",
+		"CHILD": "girl,boy",
+		"PROFESSIONAL": "actor,actress,judge,doctor,nurse,dentist,artist,painter,policeman,policewoman,astronaut,fireman,businessman,scientist,biologist,zoologist,physicist,chemist,astronomer",
+		"MAGIC-CREATURE": "elf,fairy,dwarf,gnome,goblin,ogre",
+		"ROYALTY": "king,queen,prince,princess",
+		"LUXURY-PERSON": "aristocrat,aristocrate,noble,actor,actress,ROYALTY",
+		"MOVIE-PERSON": "actor,actress",
+		"UTENSIL" : "spoon,fork,chopstick,chopsticks,knife,bowl,plate",
+		"KITCHEN-ITEM" : "pot,stove,oven,fridge,refrigerator,knife,bowl",
+		"CELESTIAL-BODY" : "asteroid,moon,star,sun,mercury,venus,earth,mars,jupiter,saturn,uranus,neptune,pluto,comet",
+		"ENTERTAINER" : "actor,actress,clown,dancer,musician,singer",
+		"ENTERTAINMENT" : "theater,circus,television,tv",
+		"TREE" : "palm.1,fir,pine",
+		"FOOD-NEEDING-PREPARATION" : "bacon,bread,burger,burrito,cacao,coffee,brownie,fries,pasta,spaghetti,omelette,pie,porridge,rice,salad,soup,steak,taco,lunch,dinner,breakfast",
+		"EATERY-FOOD" : "burger,burrito,fries,omelette,salad,soup,steak,taco,pizza",
+		"READY-MADE-FOOD" : "bread,brownie,cake,cereal,chips,fries,honey,ice-cream,jam,orange,pie,yoghurt",
+		"SHOP-FOOD" : "READY-MADE-FOOD,FARM-GROWN",
+		"FOOD" : "FARM-GROWN,SHOP-FOOD,EATERY-FOOD,FOOD-NEEDING-PREPARATION",
+		"MICROORGANISM" : "bacteria,virus",
+		"EQUINE" : "donkey,horse,pony,zebra"
+	}
+}

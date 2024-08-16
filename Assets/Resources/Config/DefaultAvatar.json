@@ -1,0 +1,29 @@
+{
+    "SkinColor": {
+        "r": 211,
+        "g": 139,
+        "b": 89
+    },
+    "HairColor": {
+        "r": 44,
+        "g": 26,
+        "b": 24
+    },
+    "FacialHairColor": {
+        "r": 44,
+        "g": 26,
+        "b": 24
+    },
+    "ClothesColor": {
+        "r": 255,
+        "g": 92,
+        "b": 92
+    },
+    "Accessory": "None",
+    "Eyebrows": "ExcitedNatural",
+    "Eyes": "Happy",
+    "Mouth": "Smile",
+    "Hair": "ShortHairShaggyMullet",
+    "FacialHair": "None",
+    "Clothes": "ShirtCrewNeck"
+}

@@ -1,0 +1,273 @@
+{
+	"p": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "p" ],
+		"samples": [ "paw", "pot", "pirate" ],
+		"file": "p"
+	},
+	"b": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "b" ],
+		"samples": [ "bat", "boy", "batman" ],
+		"file": "b"
+	},
+	"m": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "m" ],
+		"samples": [ "mom", "moon", "mop" ],
+		"file": "m"
+	},
+	"n": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "n" ],
+		"samples": [ "nose", "ninja", "nut" ],
+		"file": "n"
+	},
+	"N": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "ng" ],
+		"extra-spellings": [ "n" ],
+		"samples": [ "king", "ring" ],
+		"file": "ng"
+	},
+	"t": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "t" ],
+		"samples": [ "taco", "taxi", "tank" ],
+		"file": "t"
+	},
+	"d": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "d" ],
+		"samples": [ "dog", "day", "dad" ],
+		"file": "d"
+	},
+	"tS": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "ch", "t", "c" ],
+		"invented-spellings": [ "h" ],
+		"samples": [ "chick", "chili", "cherry" ],
+		"file": "ch"
+	},
+	"dZ": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "j", "g" ],
+		"samples": [ "jump", "jumbo", "jet" ],
+		"file": "jh"
+	},
+	"k": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "k", "c" ],
+		"extra-spellings": ["q"],
+		"samples": [ "king", "kite", "key" ],
+		"file": "k"
+	},
+	"g": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "g" ],
+		"samples": [ "ghost", "girl", "gift" ],
+		"file": "g"
+	},
+	"f": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "f", "ph" ],
+		"samples": [ "fox", "fire", "fish" ],
+		"file": "f"
+	},
+	"v": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "v" ],
+		"samples": [ "vacuum", "vase", "vampire" ],
+		"file": "v"
+	},
+	"s": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "s", "c" ],
+		"samples": [ "snake", "sun", "city" ],
+		"file": "s"
+	},
+	"z": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "z", "s" ],
+		"samples": [ "zipper", "zebra" ],
+		"file": "z"
+	},
+	"T": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "th" ],
+		"samples": [ "thing", "thief" ],
+		"file": "th"
+	},
+	"D": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "th" ],
+		"samples": [ "they", "there", "them" ],
+		"file": "dh"
+	},
+	"S": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "sh" ],
+		"extra-spellings": [ "t" ],
+		"invented-spellings": [ "s", "h" ],
+		"samples": [ "shark", "ship", "shop" ],
+		"file": "sh"
+	},
+	"Z": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "s", "g", "zh" ],
+		"samples": [ "treasure", "measure" ],
+		"file": "zh"
+	},
+	"l": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "l" ],
+		"samples": [ "lion", "lemon", "leaf" ],
+		"file": "l"
+	},
+	"r": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "r" ],
+		"invented-spellings": [ "a" ],
+		"samples": [ "rocket", "rain", "robot" ],
+		"file": "r"
+	},
+	"j": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "y" ],
+		"samples": [ "yawn", "yeti", "yogurt" ],
+		"file": "y"
+	},
+	"w": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "w", "u" ],
+		"samples": [ "water", "witch", "wizard", "queen" ],
+		"file": "w"
+	},
+	"h": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "h" ],
+		"samples": [ "hand", "heart", "hero" ],
+		"file": "hh"
+	},
+	"i": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "e", "i", "y" ],
+		"samples": [ "ear", "eagle", "east" ],
+		"file": "iy"
+	},
+	"I": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "i", "y", "e" ],
+		"samples": [ "igloo", "inch", "ink" ],
+		"file": "ih"
+	},
+	"EI": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "a", "e" ],
+		"samples": [ "ace", "age", "angel" ],
+		"file": "ey"
+	},
+	"E": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "e", "a" ],
+		"samples": [ "egg", "elf", "energy" ],
+		"file": "eh"
+	},
+	"{": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "a" ],
+		"samples": [ "apple", "anchor" ],
+		"file": "ae"
+	},
+	"AI": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "i", "y" ],
+		"invented-spellings": [ "a" ],
+		"samples": [ "ice", "iron" ],
+		"file": "ay"
+	},
+	"A": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "a", "o" ],
+		"extra-spellings": [ "e" ],
+		"invented-spellings" : [ "i", "u" ],
+		"samples": [ "art", "arm" ],
+		"file": "aa"
+	},
+	"V": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "a", "u", "o" ],
+		"invented-spellings": [ "i" ],
+		"samples": [ "cut", "truck" ],
+		"file": "ah"
+	},
+	"O": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "o", "a" ],
+		"invented-spellings": [ "u" ],
+		"samples": [ "oar", "orbit" ],
+		"file": "ao"
+	},
+	"@U": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "o" ],
+		"samples": [ "oak", "oat", "ocean" ],
+		"file": "ow"
+	},
+	"U": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "u", "o" ],
+		"samples": [ "book", "cook" ],
+		"file": "uh"
+	},
+	"u": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "u", "oo", "o" ],
+		"samples": [ "stew", "crew", "boo" ],
+		"file": "uw"
+	},
+	"OI": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "oy", "oi" ],
+		"invented-spellings": [ "i", "y" ],
+		"samples": [ "oil" ],
+		"file": "oy"
+	},
+	"aU": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "ow", "ou" ],
+		"extra-spellings":  [ "au", "ao" ],
+		"invented-spellings": [ "a", "i", "o" ],
+		"samples": [ "owl", "out" ],
+		"file": "aw"
+	},
+	"r=": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "r" ],
+		"samples": [ "earth", "urn", "urchin" ],
+		"file": "er"
+	},
+	"k;s": {
+		"c_or_v": "CONS",
+		"common-spellings": [ "x" ],
+		"invented-spellings": [ "k" ],
+		"samples": [ "box", "fox", "lynx" ],
+		"file": "ks"
+	},
+	"j;u": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "ew", "u" ],
+		"extra-spellings": [ "eu" ],
+		"invented-spellings" : [ "y" ],
+		"samples": [ "europe" ],
+		"file": "yuw"
+	},
+	"j;U": {
+		"c_or_v": "VOWL",
+		"common-spellings": [ "ew", "u" ],
+		"extra-spellings": [ "eu" ],
+		"invented-spellings" : [ "y" ],
+		"samples": [ "europe" ],
+		"file": "yuw"
+	}
+}
