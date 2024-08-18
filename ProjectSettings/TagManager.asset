@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ResultBox
+  - TrashButton
+  - WordBox
+  - LetterSpace
+  - WordBank
+  - WordBankWordsArea
+  - WriteButton
+  - CategoryButton
+  - StageObject
+  - AssociationsPanel
+  - AssociationButton
+  - TutorialPointer
+  - WordBankButton
+  - HelpButton
+  - AvatarPicker
+  - CompositionRoot
+  - Gallery
+  - TitlePage
+  - ScreenshotCamera
+  - LoginPage
+  - IdeaButton
+  - AvatarSelectorButton
+  - InterfaceHelpButton
+  - Flipper
+  - PictureBlock
+  - SpeechRing
+  - SpeechRecoButton
+  - Block
+  - KeyboardKey
+  - WordDrawer
+  - QuestionButton
+  - ToggleButton
+  - BuildButton
+  - ScaffoldButton
+  - TopicChoiceAssembly
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: stage_ui
+    uniqueID: 2307750811
+    locked: 0
+  - name: word_drawer
+    uniqueID: 1349863479
+    locked: 0
+  - name: word_drawer_ui
+    uniqueID: 4039677047
+    locked: 0
+  - name: gallery
+    uniqueID: 3594365241
+    locked: 0
+  - name: gallery_ui
+    uniqueID: 1217206061
+    locked: 0
+  - name: avatar_picker
+    uniqueID: 1284209651
+    locked: 0
+  - name: login
+    uniqueID: 596733339
+    locked: 0
+  - name: title_page
+    uniqueID: 1072176697
+    locked: 0
+  - name: jibo
+    uniqueID: 2857393109
+    locked: 0
+  - name: overlay
+    uniqueID: 2916693643
+    locked: 0

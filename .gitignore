@@ -3,9 +3,18 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
+/[Ll]ogs/
 /Assets/AssetStoreTools*
 /Assets/ML-Agents/
 /Assets/GAF/Resources/Cache/*
+/Assets/Resources/Config/KeyConfig.json
+/Assets/Firebase/
+/Assets/ExternalDependencyManager/
+/Assets/EditorDefaultResources/
+/Assets/Plugins/Android/
+/Assets/Plugins/iOS/
+/Assets/Plugins/tvOS/
+/Assets/Resources/Images/
 
 # Visual Studio 2015 cache directory
 /.vs/
