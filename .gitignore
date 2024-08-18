@@ -4,6 +4,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+/[Uu]serSettings/
 /Assets/AssetStoreTools*
 /Assets/ML-Agents/
 /Assets/GAF/Resources/Cache/*
