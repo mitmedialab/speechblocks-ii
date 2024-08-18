@@ -66,7 +66,7 @@ public class Tutorial : MonoBehaviour
 
     public bool IsFirstTime()
     {
-        if (environment?.GetUser()?.GetID() == "guest") return false;
+        // if (environment?.GetUser()?.GetID() == "guest") return false;
         return 0 == completedLessons.Count;
     }
 
@@ -77,7 +77,7 @@ public class Tutorial : MonoBehaviour
 
     public bool IsLessonCompleted(string lesson)
     {
-        if (environment?.GetUser()?.GetID() == "guest") return true;
+        // if (environment?.GetUser()?.GetID() == "guest") return true;
         return completedLessons.Contains(lesson);
     }
 
@@ -103,7 +103,7 @@ public class Tutorial : MonoBehaviour
 
     public IEnumerator GetPlugInLesson(string topic, List<SynQuery> synSequence, object extraArgument = null)
     {
-        if (environment.GetUser()?.GetID() == "guest") return null;
+        // if (environment.GetUser()?.GetID() == "guest") return null;
         for (int i = 0; i < lessons.Count; ++i)
         {
             ITutorialLesson lesson = lessons[i];

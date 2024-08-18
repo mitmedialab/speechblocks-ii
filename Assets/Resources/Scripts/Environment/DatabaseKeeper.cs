@@ -34,6 +34,7 @@ public class DatabaseKeeper : MonoBehaviour
     public IEnumerator ConnectToFirebase()
     {
         Debug.Log("DEVICE NAME: " + SystemInfo.deviceName);
+        Debug.Log($"CACHE ROOT: {cacheRoot}");
         Debug.Log("START FIREBASE INITIALIZATION");
         Task<DependencyStatus> dependenciesTask = FirebaseApp.CheckAndFixDependenciesAsync();
         yield return new WaitUntil(() => dependenciesTask.IsCompleted);

@@ -4,6 +4,12 @@
             "title": "people",
             "icon": "family",
             "cards": [
+                "mom.name",
+                "dad.name",
+                "boy.name",
+                "girl.name",
+                "granpa.name",
+                "granma.name"
             ]
         },
         {

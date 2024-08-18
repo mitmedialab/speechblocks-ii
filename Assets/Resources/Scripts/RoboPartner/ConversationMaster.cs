@@ -64,7 +64,7 @@ public class ConversationMaster : MonoBehaviour
         }
         GameObject.FindWithTag("TitlePage").GetComponent<TitlePage>().Retract(retractInstantly: false);
         touchManager.Unconstrain();
-        if (environment.GetUser().GetID() != "guest") { GetComponent<Tutorial>().StartTutorial(); }
+        GetComponent<Tutorial>().StartTutorial();
     }
 
     private IEnumerator GoodbyeCoroutine()
